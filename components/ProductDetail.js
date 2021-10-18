@@ -1,6 +1,5 @@
 import React from "react";
 import Image from "next/image";
-import { PlusCircleIcon, MinusCircleIcon } from "@heroicons/react/outline";
 
 const ProductDetail = ({ product }) => {
   return (
